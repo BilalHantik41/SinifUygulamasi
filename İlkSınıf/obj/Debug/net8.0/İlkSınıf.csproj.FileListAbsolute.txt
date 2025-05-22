@@ -1,0 +1,14 @@
+C:\Users\Administrator\Patika+ C#\İlk Sınıf\İlkSınıf\İlkSınıf\obj\Debug\net8.0\İlkSınıf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Patika+ C#\İlk Sınıf\İlkSınıf\İlkSınıf\obj\Debug\net8.0\İlkSınıf.AssemblyInfoInputs.cache
+C:\Users\Administrator\Patika+ C#\İlk Sınıf\İlkSınıf\İlkSınıf\obj\Debug\net8.0\İlkSınıf.AssemblyInfo.cs
+C:\Users\Administrator\Patika+ C#\İlk Sınıf\İlkSınıf\İlkSınıf\obj\Debug\net8.0\İlkSınıf.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Patika+ C#\İlk Sınıf\İlkSınıf\İlkSınıf\bin\Debug\net8.0\İlkSınıf.exe
+C:\Users\Administrator\Patika+ C#\İlk Sınıf\İlkSınıf\İlkSınıf\bin\Debug\net8.0\İlkSınıf.deps.json
+C:\Users\Administrator\Patika+ C#\İlk Sınıf\İlkSınıf\İlkSınıf\bin\Debug\net8.0\İlkSınıf.runtimeconfig.json
+C:\Users\Administrator\Patika+ C#\İlk Sınıf\İlkSınıf\İlkSınıf\bin\Debug\net8.0\İlkSınıf.dll
+C:\Users\Administrator\Patika+ C#\İlk Sınıf\İlkSınıf\İlkSınıf\bin\Debug\net8.0\İlkSınıf.pdb
+C:\Users\Administrator\Patika+ C#\İlk Sınıf\İlkSınıf\İlkSınıf\obj\Debug\net8.0\İlkSınıf.dll
+C:\Users\Administrator\Patika+ C#\İlk Sınıf\İlkSınıf\İlkSınıf\obj\Debug\net8.0\refint\İlkSınıf.dll
+C:\Users\Administrator\Patika+ C#\İlk Sınıf\İlkSınıf\İlkSınıf\obj\Debug\net8.0\İlkSınıf.pdb
+C:\Users\Administrator\Patika+ C#\İlk Sınıf\İlkSınıf\İlkSınıf\obj\Debug\net8.0\İlkSınıf.genruntimeconfig.cache
+C:\Users\Administrator\Patika+ C#\İlk Sınıf\İlkSınıf\İlkSınıf\obj\Debug\net8.0\ref\İlkSınıf.dll
